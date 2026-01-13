@@ -1,11 +1,18 @@
 # Web Link Collector 1000
 
+![LinkCollector1000_itch](https://github.com/user-attachments/assets/1b733961-1757-487b-ab86-98d76d73adbf)
+
+
 ## About
 Easily and automatically collect all your links into a neat txt list from a particular website or an entire section of a multi-page website network!
 
 Web Link Collector 1000 is a simple tool for gathering links from websites with minimal effort. It helps you collect resources for research, create reference lists, or save useful links without manual copying and pasting.
 
 Works on Windows 7 and above.
+
+<img width="1017" height="884" alt="!info_1_LinkCollector_HowToUse" src="https://github.com/user-attachments/assets/d3422ead-35a3-4224-9a7e-7a49197540b8" />
+
+<img width="630" height="686" alt="!info_2_LinkCollector_HowToUse" src="https://github.com/user-attachments/assets/4fa26050-8593-4862-ba4d-ed7230b5bc5f" />
 
 ## Features
 - **Two Collection Modes**: Single page or multiple pages of specific website section, or even the entire domain!
